@@ -1,0 +1,10 @@
+D:\Kurs polskiego\Informatyka\lekcja6\lekcja6\bin\Debug\lekcja6.exe.config
+D:\Kurs polskiego\Informatyka\lekcja6\lekcja6\bin\Debug\lekcja6.exe
+D:\Kurs polskiego\Informatyka\lekcja6\lekcja6\bin\Debug\lekcja6.pdb
+D:\Kurs polskiego\Informatyka\lekcja6\lekcja6\obj\Debug\lekcja6.csproj.AssemblyReference.cache
+D:\Kurs polskiego\Informatyka\lekcja6\lekcja6\obj\Debug\lekcja6.Form1.resources
+D:\Kurs polskiego\Informatyka\lekcja6\lekcja6\obj\Debug\lekcja6.Properties.Resources.resources
+D:\Kurs polskiego\Informatyka\lekcja6\lekcja6\obj\Debug\lekcja6.csproj.GenerateResource.cache
+D:\Kurs polskiego\Informatyka\lekcja6\lekcja6\obj\Debug\lekcja6.csproj.CoreCompileInputs.cache
+D:\Kurs polskiego\Informatyka\lekcja6\lekcja6\obj\Debug\lekcja6.exe
+D:\Kurs polskiego\Informatyka\lekcja6\lekcja6\obj\Debug\lekcja6.pdb

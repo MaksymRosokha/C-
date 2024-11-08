@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Kurs polskiego\\Informatyka\\lekcja6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F488D40F-7875-4347-A56B-00DBB8520D68}|lekcja6\\lekcja6.csproj|d:\\kurs polskiego\\informatyka\\lekcja6\\lekcja6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F488D40F-7875-4347-A56B-00DBB8520D68}|lekcja6\\lekcja6.csproj|solutionrelative:lekcja6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F488D40F-7875-4347-A56B-00DBB8520D68}|lekcja6\\lekcja6.csproj|D:\\Kurs polskiego\\Informatyka\\lekcja6\\lekcja6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F488D40F-7875-4347-A56B-00DBB8520D68}|lekcja6\\lekcja6.csproj|solutionrelative:lekcja6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Kurs polskiego\\Informatyka\\lekcja6\\lekcja6\\Form1.cs",
+              "RelativeDocumentMoniker": "lekcja6\\Form1.cs",
+              "ToolTip": "D:\\Kurs polskiego\\Informatyka\\lekcja6\\lekcja6\\Form1.cs",
+              "RelativeToolTip": "lekcja6\\Form1.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwBAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T21:32:04.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Kurs polskiego\\Informatyka\\lekcja6\\lekcja6\\Form1.cs",
+              "RelativeDocumentMoniker": "lekcja6\\Form1.cs",
+              "ToolTip": "D:\\Kurs polskiego\\Informatyka\\lekcja6\\lekcja6\\Form1.cs [Design]",
+              "RelativeToolTip": "lekcja6\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T21:31:57.945Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

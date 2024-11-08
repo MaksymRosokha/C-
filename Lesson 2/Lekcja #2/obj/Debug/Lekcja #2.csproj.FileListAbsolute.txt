@@ -1,0 +1,25 @@
+C:\Users\maksi\source\repos\Lekcja #2\Lekcja #2\bin\Debug\Lekcja #2.exe.config
+C:\Users\maksi\source\repos\Lekcja #2\Lekcja #2\bin\Debug\Lekcja #2.exe
+C:\Users\maksi\source\repos\Lekcja #2\Lekcja #2\bin\Debug\Lekcja #2.pdb
+C:\Users\maksi\source\repos\Lekcja #2\Lekcja #2\obj\Debug\Lekcja #2.csproj.AssemblyReference.cache
+C:\Users\maksi\source\repos\Lekcja #2\Lekcja #2\obj\Debug\Lekcja__2.Form1.resources
+C:\Users\maksi\source\repos\Lekcja #2\Lekcja #2\obj\Debug\Lekcja__2.Properties.Resources.resources
+C:\Users\maksi\source\repos\Lekcja #2\Lekcja #2\obj\Debug\Lekcja #2.csproj.GenerateResource.cache
+C:\Users\maksi\source\repos\Lekcja #2\Lekcja #2\obj\Debug\Lekcja #2.csproj.CoreCompileInputs.cache
+C:\Users\maksi\source\repos\Lekcja #2\Lekcja #2\obj\Debug\Lekcja #2.exe
+C:\Users\maksi\source\repos\Lekcja #2\Lekcja #2\obj\Debug\Lekcja #2.pdb
+C:\Users\maksi\source\repos\Lekcja #2\Lekcja #2\obj\Debug\Lekcja__2.Form2.resources
+C:\Users\maksi\source\repos\Lekcja #2\Lekcja #2\obj\Debug\Lekcja__2.Form3.resources
+D:\Kurs polskiego\Informatyka\Lekcja #2\Lekcja #2\bin\Debug\Lekcja #2.exe.config
+D:\Kurs polskiego\Informatyka\Lekcja #2\Lekcja #2\bin\Debug\Lekcja #2.exe
+D:\Kurs polskiego\Informatyka\Lekcja #2\Lekcja #2\bin\Debug\Lekcja #2.pdb
+D:\Kurs polskiego\Informatyka\Lekcja #2\Lekcja #2\obj\Debug\Lekcja #2.csproj.AssemblyReference.cache
+D:\Kurs polskiego\Informatyka\Lekcja #2\Lekcja #2\obj\Debug\Lekcja__2.Form1.resources
+D:\Kurs polskiego\Informatyka\Lekcja #2\Lekcja #2\obj\Debug\Lekcja__2.Form2.resources
+D:\Kurs polskiego\Informatyka\Lekcja #2\Lekcja #2\obj\Debug\Lekcja__2.Form3.resources
+D:\Kurs polskiego\Informatyka\Lekcja #2\Lekcja #2\obj\Debug\Lekcja__2.Properties.Resources.resources
+D:\Kurs polskiego\Informatyka\Lekcja #2\Lekcja #2\obj\Debug\Lekcja #2.csproj.GenerateResource.cache
+D:\Kurs polskiego\Informatyka\Lekcja #2\Lekcja #2\obj\Debug\Lekcja #2.csproj.CoreCompileInputs.cache
+D:\Kurs polskiego\Informatyka\Lekcja #2\Lekcja #2\obj\Debug\Lekcja #2.exe
+D:\Kurs polskiego\Informatyka\Lekcja #2\Lekcja #2\obj\Debug\Lekcja #2.pdb
+D:\Kurs polskiego\Informatyka\Lekcja #2\Lekcja #2\obj\Debug\Lekcja__2.ZadanieDomowe1.resources

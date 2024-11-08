@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Kurs polskiego\\Informatyka\\Lekcja7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC7BF1A-0168-466A-88F5-3F4D4701E55F}|Lekcja7\\Lekcja7.csproj|d:\\kurs polskiego\\informatyka\\lekcja7\\lekcja7\\zadaniedomowe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EC7BF1A-0168-466A-88F5-3F4D4701E55F}|Lekcja7\\Lekcja7.csproj|solutionrelative:lekcja7\\zadaniedomowe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC7BF1A-0168-466A-88F5-3F4D4701E55F}|Lekcja7\\Lekcja7.csproj|D:\\Kurs polskiego\\Informatyka\\Lekcja7\\lekcja7\\zadaniedomowe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1EC7BF1A-0168-466A-88F5-3F4D4701E55F}|Lekcja7\\Lekcja7.csproj|solutionrelative:lekcja7\\zadaniedomowe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ZadanieDomowe.cs [Design]",
+              "DocumentMoniker": "D:\\Kurs polskiego\\Informatyka\\Lekcja7\\Lekcja7\\ZadanieDomowe.cs",
+              "RelativeDocumentMoniker": "Lekcja7\\ZadanieDomowe.cs",
+              "ToolTip": "D:\\Kurs polskiego\\Informatyka\\Lekcja7\\Lekcja7\\ZadanieDomowe.cs [Design]",
+              "RelativeToolTip": "Lekcja7\\ZadanieDomowe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T20:46:10.897Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ZadanieDomowe.cs",
+              "DocumentMoniker": "D:\\Kurs polskiego\\Informatyka\\Lekcja7\\Lekcja7\\ZadanieDomowe.cs",
+              "RelativeDocumentMoniker": "Lekcja7\\ZadanieDomowe.cs",
+              "ToolTip": "D:\\Kurs polskiego\\Informatyka\\Lekcja7\\Lekcja7\\ZadanieDomowe.cs",
+              "RelativeToolTip": "Lekcja7\\ZadanieDomowe.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T17:17:30.332Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

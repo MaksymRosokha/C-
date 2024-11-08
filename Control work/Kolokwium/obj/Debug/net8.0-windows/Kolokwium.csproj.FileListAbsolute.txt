@@ -1,0 +1,16 @@
+D:\Kurs polskiego\Informatyka\Kolokwium\Kolokwium\bin\Debug\net8.0-windows\Kolokwium.exe
+D:\Kurs polskiego\Informatyka\Kolokwium\Kolokwium\bin\Debug\net8.0-windows\Kolokwium.deps.json
+D:\Kurs polskiego\Informatyka\Kolokwium\Kolokwium\bin\Debug\net8.0-windows\Kolokwium.runtimeconfig.json
+D:\Kurs polskiego\Informatyka\Kolokwium\Kolokwium\bin\Debug\net8.0-windows\Kolokwium.dll
+D:\Kurs polskiego\Informatyka\Kolokwium\Kolokwium\bin\Debug\net8.0-windows\Kolokwium.pdb
+D:\Kurs polskiego\Informatyka\Kolokwium\Kolokwium\obj\Debug\net8.0-windows\Kolokwium.Form1.resources
+D:\Kurs polskiego\Informatyka\Kolokwium\Kolokwium\obj\Debug\net8.0-windows\Kolokwium.csproj.GenerateResource.cache
+D:\Kurs polskiego\Informatyka\Kolokwium\Kolokwium\obj\Debug\net8.0-windows\Kolokwium.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kurs polskiego\Informatyka\Kolokwium\Kolokwium\obj\Debug\net8.0-windows\Kolokwium.AssemblyInfoInputs.cache
+D:\Kurs polskiego\Informatyka\Kolokwium\Kolokwium\obj\Debug\net8.0-windows\Kolokwium.AssemblyInfo.cs
+D:\Kurs polskiego\Informatyka\Kolokwium\Kolokwium\obj\Debug\net8.0-windows\Kolokwium.csproj.CoreCompileInputs.cache
+D:\Kurs polskiego\Informatyka\Kolokwium\Kolokwium\obj\Debug\net8.0-windows\Kolokwium.dll
+D:\Kurs polskiego\Informatyka\Kolokwium\Kolokwium\obj\Debug\net8.0-windows\refint\Kolokwium.dll
+D:\Kurs polskiego\Informatyka\Kolokwium\Kolokwium\obj\Debug\net8.0-windows\Kolokwium.pdb
+D:\Kurs polskiego\Informatyka\Kolokwium\Kolokwium\obj\Debug\net8.0-windows\Kolokwium.genruntimeconfig.cache
+D:\Kurs polskiego\Informatyka\Kolokwium\Kolokwium\obj\Debug\net8.0-windows\ref\Kolokwium.dll
